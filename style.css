@@ -1,0 +1,17 @@
+h4
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 255, 170, 0.8);
+}
+
+canvas
+{
+    margin-left: 320px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 5px rgb(49, 49, 49);
+    border: solid darkblue;
+    border-radius: 10px;
+}
